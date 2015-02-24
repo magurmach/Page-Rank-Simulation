@@ -1,0 +1,16 @@
+*.exe
+*.o
+*.cbp
+*.workspace
+*.codelite
+*.session
+*.tags
+*.user
+*.db
+*.mk
+Debug/
+*.project
+*.pdb
+.project
+.pydevproject
+*.pyc
