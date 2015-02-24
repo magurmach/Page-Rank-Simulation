@@ -182,11 +182,11 @@ if __name__ == "__main__":
 """
 Your answer for the question goes here.
 ...
-We can see change is result. Different PRNG functions show different number sequence for a seed value.
+We can see changes in result. Different PRNG functions show different number sequence for a seed value.
 Python uses Mersenne twister as pseudorandom number generator. Same seed in this function always
-generates same number sequence though no particular cycle is not found in the sequence. Change is seed
-thus conveys changes in random number sequence which creates different outcome, but always same for same seed.
-Higher seed valu with higher number of iteration seems to provide better answer with this graph but may not
-do so for different link graph.
+generates same number sequence though no particular cycle is found in the sequence. Change in seed
+thus results in changes in random number sequence which creates different outcomes, but always same for a particual seed.
+Higher seed value with higher number of iteration seems to provide better answer with this graph but may not
+do so for different probability matrix.
 
 """
