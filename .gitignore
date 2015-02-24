@@ -13,4 +13,5 @@ Debug/
 *.pdb
 .project
 .pydevproject
+.DS_Store
 *.pyc
